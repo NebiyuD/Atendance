@@ -1,4 +1,4 @@
-
+Good Day!
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +12,7 @@
 
     <header class="main-header title" id="headermain">
         <div class="header">
-            <h1>Attendance</h1>
+          
         </div>
     </header>
     <section>
